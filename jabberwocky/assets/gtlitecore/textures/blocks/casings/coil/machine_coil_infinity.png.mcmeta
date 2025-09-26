@@ -1,0 +1,10 @@
+{
+  "ctm": {
+    "ctm_version": 1,
+    "type": "ctm",
+    "layer": "SOLID",
+    "textures": [
+      "gtlitecore:blocks/casings/coil/machine_coil_infinity_ctm"
+    ]
+  }
+}
