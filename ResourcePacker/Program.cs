@@ -94,7 +94,6 @@ class Program
                     Directory.CreateDirectory(tempTarget);
                     CopyDirectory(sourcePath, tempTarget);
                     // For default settings, the output file can override original file.
-                    // Todo: should we add a setting for this configuration?
                     if (File.Exists(outputPath)) File.Delete(outputPath);
                     ZipFile.CreateFromDirectory(tempRoot, outputPath, 
                         CompressionLevel.Optimal, includeBaseDirectory: false);
