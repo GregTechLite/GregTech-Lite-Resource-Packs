@@ -1,1 +1,0 @@
-rootProject.name = "gregtech-lite-resource-packs"
