@@ -9,6 +9,25 @@ then this document is useful for you. The goal of this document is teach the beg
 
 ## How to get Artifacts?
 
+### Resource Pack Folder Structure
+
+In the standard Resource Pack folder, it's folder structure has the following format:
+```
+ResourcePackName/
+│
+├── ResourcePack/
+│   ├── assets/
+│   ├── pack.mcmeta
+│   └── pack.png
+│
+└── Sources/
+    └── assets/
+```
+The `ResourcePack` folder is the standard Resource Pack content folder, and the `Sources` folder consists all work files
+or template files.
+
+### Resource Packer
+
 The C# project `ResourcePacker` can automatically export Resource Pack artifacts. Run this project (or click button) to
 get helps.
 
