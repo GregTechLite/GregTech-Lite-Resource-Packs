@@ -1,0 +1,20 @@
+{
+  "type": {
+    "regular": {
+      "color": {
+        "common": {
+          "box": "0x7A7A7A",
+          "shadow": "0xC0C0C0",
+          "board": "0xF2F2F2"
+        },
+        "toggle": {
+          "box": "0x213042",
+          "shadow": "0x456589",
+          "frame": "0x7BB3F4",
+          "board": "0x6493C8"
+        }
+      }
+      
+    }
+  }
+}
