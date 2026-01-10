@@ -1,0 +1,13 @@
+{
+  "type": {
+    "bronze" : {
+      "color": "0xFF8000"
+    },
+    "steel": {
+      "color": "0x808080"
+    },
+    "primitive": {
+      "color": "0xCCA880"
+    }
+  }
+}
