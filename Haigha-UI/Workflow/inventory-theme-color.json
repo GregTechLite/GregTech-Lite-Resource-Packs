@@ -1,0 +1,14 @@
+{
+  "inventory_type": {
+    "item": {
+      "box": "0xB76E22",
+      "box_secondary": "0xCE9835",
+      "board": "0xE8C64B"
+    },
+    "fluid": {
+      "box": "0x708CBA",
+      "box_secondary": "0x7DA9D2",
+      "board": "0x9CD3FF"
+    }
+  }
+}
